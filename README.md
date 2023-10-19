@@ -12,8 +12,8 @@ To get this to work you need the following things already:
 * The Patch file to create the Mod --> .bps File of the Mod you're trying to create
 
 ## Patching the ROM ##
-
 After having the Game with an Emulator setup and the Patch File and Floating IPS downloaded, follow these steps:
+
 1. Unzip the .Zip Folder of Floating IPS: <br>
 <img src="Images/Unzipping_Folder.png" width="230" height="130">
 
