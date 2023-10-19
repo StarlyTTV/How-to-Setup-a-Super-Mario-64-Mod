@@ -15,10 +15,10 @@ To get this to work you need the following things already:
 After having the Game with an Emulator setup and the Patch File and Floating IPS downloaded, follow these steps:
 
 1. Unzip the .Zip Folder of Floating IPS: <br>
-<img src="Images/Unzipping_Folder.png" width="230" height="130">
+ <br> <img src="Images/Unzipping_Folder.png" width="230" height="130">
 
 2. Open the file "flips.exe" in the newly unzipped folder and click on "Apply Patch": <br>
-<img src="Images/Apply_Patch.png" width="220" height="100">
+<br> <img src="Images/Apply_Patch.png" width="220" height="100">
 
 * First select the Patch (.bps) File
 * Then select the Mario 64 (US Version) ROM
